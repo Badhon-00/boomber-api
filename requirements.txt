@@ -1,0 +1,7 @@
+fastapi==0.109.1
+uvicorn==0.27.0
+twilio==8.3.0
+pydantic==2.6.4fastapi==0.109.1
+uvicorn==0.27.0
+twilio==8.3.0
+pydantic==2.6.4
