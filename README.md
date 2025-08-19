@@ -3,7 +3,7 @@
 **Author:** BADHON-00  
 **Version:** 4.0 Premium Edition  
 **Status:** Production Ready 🚀  
-**Technology Stack:** Node.js + Express + Twilio
+**Technology Stack:** Node.js + Express + Twilio + python
 
 ![Boomber API](https://img.shields.io/badge/BOOMBER-PREMIUM-gold?style=for-the-badge&logo=fire)
 ![Twilio](https://img.shields.io/badge/Twilio-Verified-blue?style=for-the-badge&logo=twilio)
@@ -42,3 +42,4 @@
    Start Command: npm start
    Port: 10000
    Plan: Free or Premium
+
