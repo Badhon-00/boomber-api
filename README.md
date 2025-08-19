@@ -9,7 +9,7 @@
 ![Twilio](https://img.shields.io/badge/Twilio-Verified-blue?style=for-the-badge&logo=twilio)
 ![Render](https://img.shields.io/badge/Render-Deployed-black?style=for-the-badge&logo=render)
 ![Node.js](https://img.shields.io/badge/Node.js-18-green?style=for-the-badge&logo=node.js)
-![python](https://img.shields.io/badge/Python?style=for-the-badge&logo=fire)
+![python](https://img.shields.io/badge/Python?style=for-the-badge&logo=python)
 
 ## 🏆 Premium Features
 
@@ -43,5 +43,6 @@
    Start Command: npm start
    Port: 10000
    Plan: Free or Premium
+
 
 
